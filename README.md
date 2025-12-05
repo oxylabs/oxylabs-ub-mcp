@@ -1,4 +1,4 @@
-# oxylabs-unblocking-browser-mcp
+# oxylabs-stealth-browser-mcp
 
 ## Oxylabs Stealth Browser
 
