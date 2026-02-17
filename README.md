@@ -1,4 +1,4 @@
-# oxylabs-unblocking-browser-mcp
+# oxylabs-headless-browser-mcp
 
 ## Oxylabs Headless Browser
 
